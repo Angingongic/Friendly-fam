@@ -1,3 +1,9 @@
+# im skidding this bro's project so hard :fire:
+
+# guys this was made by me trustffff
+
+# @dareddd_ on discord yayayayay
+
 import flask
 from flask import request, render_template, session
 
