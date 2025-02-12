@@ -2,7 +2,7 @@
 
 # guys this was made by me trustffff
 
-# @dareddd_ on discord yayayayay
+# @dareddd_ on discord yayayayay 🤑🤑😭😭
 
 import flask
 from flask import request, render_template, session
